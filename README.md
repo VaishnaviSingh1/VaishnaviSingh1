@@ -51,14 +51,12 @@ Each step in your workflow is defined with the following structure:
 1. Define global steps in `config/step_definitions.yml`  
 2. Create client workflows in the `workflows/` directory  
 3. Run your engine:
-
-```bash
-bun run index.ts
-# or
-bun start
+   * bun run index.ts *
+  # or
+   * bun start *
 
 ## Example Usage
-
+```bash
 config/step_definitions.yml
 
 steps:
