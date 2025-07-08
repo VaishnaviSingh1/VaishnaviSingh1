@@ -16,7 +16,7 @@ src/
 ├── workflows/
 │   └── clientA.yaml        # Example workflow for a client
 └── index.ts                # Main entry point
-
+```
 
 
 ---
