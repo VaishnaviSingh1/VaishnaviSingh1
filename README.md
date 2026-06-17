@@ -1,4 +1,5 @@
-# Hi 👋 I'm Vaishnavi Singh
+# Hi 
+I'm Vaishnavi Singh
 
 💻 Developer | 🚀 Learner | 🌱 Building cool things
 
