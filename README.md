@@ -34,8 +34,3 @@ I enjoy building projects, learning new technologies, and turning ideas into use
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>Keep learning. Keep building. 🚀</i>
-</p>
